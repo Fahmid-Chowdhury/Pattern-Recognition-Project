@@ -1,7 +1,7 @@
-paper 01 -- rafi <br>
-paper 02 -- zakaria<br>
-paper 03 -- maliha<br>
-paper 04 -- radito<br>
-paper 05 -- radito<br>
-paper 09 -- fahmid<br>
-paper 10 -- fahmid<br>
+paper 01 -- Rafi <br>
+paper 02 -- Zakaria<br>
+paper 03 -- Maliha<br>
+paper 04 -- Radito<br>
+paper 05 -- Radito<br>
+paper 09 -- Fahmid<br>
+paper 10 -- Fahmid<br>
