@@ -12,7 +12,7 @@ This document tracks the progress of paper readings for our cyberbullying detect
 | Paper 04 |Detection of Cyber bullying on Social Media Using MachineLearning  | Radito |Reading |
 | Paper 05 |Natural language processing and machine learning based cyberbullying detection for Bangla and Romanized Bangla texts  | Radito |Reading |
 | Paper 06 |Cyberbullying Detection on Twitter using Machine Learning: A Review  | Amina |Reading |
-| Paper 07 |Detection of Cyberbullying Spam Mails  | Unassigned | |
+| Paper 07 |Detection of Cyberbullying Spam Mails  | *Unassigned* | |
 | Paper 08 |SOSNet: A Graph Convolutional Network Approach to Fine-Grained Cyberbullying Detection  | Amina |Reading |
 | Paper 09 |Accurate Cyberbullying Detection and Prevention on Social Media  | Fahmid |Reading |
 | Paper 10 |Cyberbullying severity detection: A machine learning approach  | Fahmid |Reading |
