@@ -5,7 +5,7 @@ This document tracks the progress of paper readings for our cyberbullying detect
 **Assigned Papers:**
 
 | Paper Number | Title | Assigned To | Status | 
-|---|---|---|---|---|
+|---|---|---|---|
 | Paper 01 |  | Rafi | |
 | Paper 02 |  | Zakaria | |
 | Paper 03 |  | Maliha | |
