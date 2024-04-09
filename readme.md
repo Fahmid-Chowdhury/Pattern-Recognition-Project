@@ -6,13 +6,13 @@ This document tracks the progress of paper readings for our cyberbullying detect
 
 | Paper Number | Title | Assigned To | Status | 
 |---|---|---|---|
-| Paper 01 |  | Rafi | |
-| Paper 02 |  | Zakaria | |
-| Paper 03 |  | Maliha | |
-| Paper 04 |  | Radito | |
-| Paper 05 |  | Radito | |
-| Paper 06 |  | Amina | |
-| Paper 08 |  | Amina | |
-| Paper 09 |  | Fahmid | |
-| Paper 10 |  | Fahmid | |
+| Paper 01 |  | Rafi |Reading |
+| Paper 02 |  | Zakaria | Reading|
+| Paper 03 |  | Maliha | Reading|
+| Paper 04 |  | Radito |Reading |
+| Paper 05 |  | Radito |Reading |
+| Paper 06 |  | Amina |Reading |
+| Paper 08 |  | Amina |Reading |
+| Paper 09 |  | Fahmid |Reading |
+| Paper 10 |  | Fahmid |Reading |
 
