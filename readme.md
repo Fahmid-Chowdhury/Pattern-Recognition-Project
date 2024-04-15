@@ -16,4 +16,5 @@ This document tracks the progress of paper readings for our cyberbullying detect
 | Paper 08 |SOSNet: A Graph Convolutional Network Approach to Fine-Grained Cyberbullying Detection  | Amina |Reading |
 | Paper 09 |Accurate Cyberbullying Detection and Prevention on Social Media  | Fahmid |Reading |
 | Paper 10 |Cyberbullying severity detection: A machine learning approach  | Fahmid |Reading |
+| Paper 11 |A Study on Automatic Detection of Cyberbullying using Machine Learning | Zakaria | Reading |
 
