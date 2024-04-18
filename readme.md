@@ -17,4 +17,4 @@ This document tracks the progress of paper readings for our cyberbullying detect
 | Paper 09 |Accurate Cyberbullying Detection and Prevention on Social Media  | Fahmid |Reading |
 | Paper 10 |Cyberbullying severity detection: A machine learning approach  | Fahmid |Reading |
 | Paper 11 |A Study on Automatic Detection of Cyberbullying using Machine Learning | Zakaria | Reading |
-
+| Paper 12 |An Ensemble-Based Multiclassification Machine Learning Classifiers Approach to Detect Multiple Classes of Cyberbullying | Sabbir | Reading |
