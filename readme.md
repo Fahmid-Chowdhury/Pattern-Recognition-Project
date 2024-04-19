@@ -7,7 +7,6 @@ This document tracks the progress of paper readings for our cyberbullying detect
 | Paper Number | Title | Assigned To | Status | 
 |---|---|---|---|
 | Paper 01 | Predicting Cyberbullying on Social Media in the Big Data Era Using Machine Learning Algorithms: Review of Literature and Open Challenges | Rafi |Reading |
-| Paper 02 |Automatic detection of cyberbullying in social media text  | Zakaria | Reading|
 | Paper 03 |Student Perception of Cyberbullying in Social Media  | Maliha | Reading|
 | Paper 04 |Analysis of Tweets for Cyberbullying Detection  | Radito |Reading |
 | Paper 05 |Natural language processing and machine learning based cyberbullying detection for Bangla and Romanized Bangla texts  | Radito |Reading |
