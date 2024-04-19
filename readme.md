@@ -9,7 +9,6 @@ This document tracks the progress of paper readings for our cyberbullying detect
 | Paper 01 | Predicting Cyberbullying on Social Media in the Big Data Era Using Machine Learning Algorithms: Review of Literature and Open Challenges | Rafi |Reading |
 | Paper 03 |Student Perception of Cyberbullying in Social Media  | Maliha | Reading|
 | Paper 04 |Analysis of Tweets for Cyberbullying Detection  | Radito |Reading |
-
 | Paper 08 |SOSNet: A Graph Convolutional Network Approach to Fine-Grained Cyberbullying Detection  | Amina |Reading |
 | Paper 09 |Accurate Cyberbullying Detection and Prevention on Social Media  | Fahmid |Reading |
 | Paper 10 |Cyberbullying severity detection: A machine learning approach  | Fahmid |Reading |
