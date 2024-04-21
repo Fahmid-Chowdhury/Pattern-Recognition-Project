@@ -13,4 +13,4 @@ This document tracks the progress of paper readings for our cyberbullying detect
 | Paper 05| Cyberbullying severity detection: A machine learning approach  | Fahmid |Reading |
 | Paper 06 | Cyberbullying detection and classification with improved IG and BiLSTM | Zakaria | Reading |
 | Paper 07 | An Ensemble-Based Multiclassification Machine Learning Classifiers Approach to Detect Multiple Classes of Cyberbullying | Sabbir | Reading |
-| Paper 08 | | Maliha | Not selected |
+| Paper 08 | A Study of Cyberbullying Detection Using Machine Learning Techniques | Maliha | Reading |
