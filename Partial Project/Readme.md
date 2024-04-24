@@ -6,6 +6,8 @@ https://youtu.be/0cZwS5cD1lw
 Public link to the slide (Anyone on the internet can view without login): <br>
 https://drive.google.com/drive/folders/1lfjEJLTV-0ColuF66A0v0vlUed3NcEr2?usp=sharing
 
+Link to Overleaf: <br>
+https://www.overleaf.com/project/6623307aee4f44520e79c8d0
 
 Project title: <br>
 Mitigating bias in cyberbulling detection
