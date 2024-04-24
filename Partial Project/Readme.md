@@ -3,7 +3,7 @@
 Link to unlisted YouTube video: \\
 https://youtu.be/0cZwS5cD1lw
 
-Public link to the slide (Anyone on the internet can view without login): \\
+Public link to the slide (Anyone on the internet can view without login): <br>
 https://drive.google.com/drive/folders/1lfjEJLTV-0ColuF66A0v0vlUed3NcEr2?usp=sharing
 
 Project title: \\
