@@ -1,7 +1,7 @@
 ### Partial Project
 
 Link to unlisted YouTube video: <br>
-https://youtu.be/0cZwS5cD1lw
+https://youtu.be/IrD3CJqSx68
 
 Public link to the slide (Anyone on the internet can view without login): <br>
 https://drive.google.com/drive/folders/14r64wZ8eboBsyoGfKEnfRVeZoGT0-NYg?usp=sharing
